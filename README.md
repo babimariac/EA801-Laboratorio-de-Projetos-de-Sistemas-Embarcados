@@ -1,1 +1,3 @@
-# EA801-Laboratorio-de-Projetos-de-Sistemas-Embarcados
+# EA801
+
+Este repositório apresenta os projetos desenvolvidos pelos estudantes da FEEC-UNICAMP na disciplina de graduação denominada Laboratório de Sistemas Embarcados. 
